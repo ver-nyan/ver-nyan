@@ -1,3 +1,3 @@
-<img src="./asdf.jpg" width="128">
+<img src="./chiikawaaaaaa.png" width="64">
 
-contributed/forked stuff on github, more personal stuff on gitlab & codeberg
+contributed/forked stuff on github, personal stuff on gitlab & codeberg
